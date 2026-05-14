@@ -1,0 +1,7 @@
+Full compressed archive (3.7 MB, 593 files) is available in the sandbox environment at:
+/home/workdir/artifacts/ultimate-grok-backup/ultimate-grok-skills-full-backup-2026-05-14.tar.gz
+
+To restore locally:
+tar -xzf ultimate-grok-skills-full-backup-2026-05-14.tar.gz
+
+This archive contains the exact directory structure of all bundled and custom skills with every reference, script, schema, and asset preserved.
